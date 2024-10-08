@@ -8,10 +8,10 @@ This case study proposes developing an advanced visualization tool to enhance pu
 [Proposal Here](https://github.com/DennisDCCH/MXB362/blob/main/MXB362%20Proposal.pdf)
 
 ## Progress Report
-[Progress Report Here]()
+[Progress Report Here](https://github.com/DennisDCCH/MXB362/blob/main/MXB362%20Progress%20Report.pdf)
 
 ## Final Report
-[Final Report Here]()
+[Final Report Here](https://github.com/DennisDCCH/MXB362/blob/main/MXB362%20Final%20Report.pdf)
 
 ## Case Study Presentation
 [View the video here]()
